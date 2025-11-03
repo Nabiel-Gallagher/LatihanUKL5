@@ -13,7 +13,7 @@ lalu menghitung rata-rata nilai masing-masing siswa.
   - Memproses input dan output untuk setiap siswa dan setiap mapel
 - Menampilkan tabel nilai semua siswa
 - Menghitung rata-rata per siswa
-  - Menggunakan perulangan dan operasi aritmetika sederhana
+  - Menggunakan perulangan dan operasi aritmatika sederhana
 
 ---
 
