@@ -17,7 +17,7 @@ public class SulitSoal1 {
         double[][] nilaiSiswa = new double[jumlahSiswa][jumlahMapel];
 
         for (int i = 0; i < jumlahSiswa; i++) {
-            System.out.println("\nSiswa ke-" + (i + 1) + ":");
+            System.out.println("Siswa ke-" + (i + 1) + ":");
             for (int j = 0; j < jumlahMapel; j++) {
                 System.out.print("Masukkan nilai mapel ke-" + (j + 1) + ": ");
                 nilaiSiswa[i][j] = input.nextDouble();
@@ -48,3 +48,4 @@ public class SulitSoal1 {
         }
     }
 }
+
